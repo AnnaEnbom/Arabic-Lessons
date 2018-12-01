@@ -14,6 +14,11 @@ marfuu3
 * mubtada' och khabar i en jumla ismiyya
 * Subjekt i en verbalmening
 
+Ändelser
+* un för obestämd form triptot
+* u för bestämd form, muDaafun, diptot
+* aani för dual mask, ataani för dual fem
+* uuna för plural mask
 
 # Allmän info
 Tre typer av ord
