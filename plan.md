@@ -13,5 +13,9 @@ Tre typer av ord
 * Harf
 
 Typer av meningar
-fullständig, ofullständig (naaqis)
-jumla fi3iliyya, jumla ismiyya, shibhu al-jumlati
+* fullständig
+* ofullständig (naaqis)
+
+* jumla fi3iliyya
+* jumla ismiyya
+* shibhu al-jumlati
