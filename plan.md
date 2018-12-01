@@ -1,11 +1,16 @@
 Lektioner kommer att handla om:
 
-Kausus
+# Kausus
 nominativ, ackusativ, genitiv (nomen)
 nominativ, ackusativ manzuum (verb)
 
+
+
+# Allmän info
 Tre typer av ord
-verb, ism, Harf
+* verb
+* ism
+* Harf
 
 Typer av meningar
 fullständig, ofullständig (naaqis)
