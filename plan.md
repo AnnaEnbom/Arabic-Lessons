@@ -66,6 +66,13 @@ majruur
   * aatain obestämd plural fem, aati för obestämd plural fem
   * iiina för plural mask
 
+## Arabiska bokstäver
+
+Sitter ihop.
+Konsonanter.
+Långa vokaler, svaga rötter.
+Korta vokaler, skrivs inte.
+
 # Allmän info
 Tre typer av ord
 * verb
@@ -79,3 +86,16 @@ Typer av meningar
 * jumla fi3iliyya
 * jumla ismiyya
 * shibhu al-jumlati
+
+Tre rotbokstäver
+ibland fyra eller fem.
+Vissa ord har svaga rötter (alif, waw, ya)
+
+Verbformer
+
+Mönster
+* Aktivit particip
+* Passivt particip
+* Verbalnomen
+
+ism fi3l
