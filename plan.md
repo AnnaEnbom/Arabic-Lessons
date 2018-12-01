@@ -18,6 +18,7 @@ marfuu3
 * un för obestämd form triptot
 * u för bestämd form, muDaafun, diptot
 * aani för dual mask, ataani för dual fem
+ * aa för dual mask som är muDaafun, ataa för dual fem som är muDaafun
 * uuna för plural mask
 
 # Allmän info
