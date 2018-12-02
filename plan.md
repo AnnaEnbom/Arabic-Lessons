@@ -1,8 +1,5 @@
 
-#Arabisk grammatik
-
-And, of course emoji! :sparkles: :camel: :boom:
-Hey @kneath — love your sweater!
+# Arabisk grammatik
 
 ## Kasus
 
@@ -136,7 +133,7 @@ ism fi3l
 - [x] Meningarna visar information om orden
 - [] Meningarna visar information om orden med avancerad analys
 
-@annaenbom أنا
+@AnnaEnbom أنا
 
 :sunny: شمس
 :rabbit: أرنب
