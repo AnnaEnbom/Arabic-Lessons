@@ -1,11 +1,12 @@
-Lektioner kommer att handla om:
 
-# Kasus
+#Arabisk grammatik
+
+## Kasus
 nominativ, ackusativ, genitiv (nomen)
 
 nominativ, ackusativ manzuum (verb)
 
-## nominativ
+### nominativ
 marfuu3
 
 Är default.
@@ -22,7 +23,7 @@ marfuu3
   * aa för dual mask som är muDaafun, ataa för dual fem som är muDaafun
 * uuna för plural mask
 
-## ackusativ
+### ackusativ
 
 manSuubun
 
@@ -49,7 +50,7 @@ manSuubun
   * aatain obestämd plural fem, aati för obestämd plural fem
   * iiina för plural mask
 
-## Genitiv
+### Genitiv
 
 majruur
 
@@ -81,7 +82,16 @@ Normal ordföljd i standardarabiska
 2. faa3il
 3. maf3uulu bi-hi
 
-# Allmän info
+## Poesi
+
+> Mannens kropp är en bullduzer
+
+> De ser mig som en fruktträdgård
+> - Qabbani
+
+
+
+## Allmän info
 Tre typer av ord
 * verb
 * ism
@@ -110,19 +120,8 @@ Mönster
 ism fi3l
 
 
-> Mannens kropp är en bullduzer >
 
-det var en dikt
-
-> Vi är vackra
-> - Qabbani
-
-det var en dikt
-
-> De ser mig som en fruktträdgård > - Qabbani
-
-
-Arabisk analays
+## Arabisk analays
 [grammatiska termer](https://arabic.fi/sv/categories/7)
 
 ![En arabisk mening](https://arabic.fi/images/share/fb_sentence25sv.png)
