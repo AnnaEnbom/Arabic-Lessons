@@ -119,7 +119,12 @@ Mönster
 
 ism fi3l
 
+- [x] Bokstäverna i ordet visas en för en
+- [] En speciell sida med bild för bokstäverna i ordet
+- [x] Meningarna visar information om orden
+- [] Meningarna visar information om orden med avancerad analys
 
+@annaenbom أنا
 
 ## Arabisk analays
 [grammatiska termer](https://arabic.fi/sv/categories/7)
