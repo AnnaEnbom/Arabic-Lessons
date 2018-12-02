@@ -109,6 +109,19 @@ Mönster
 
 ism fi3l
 
+
+> Mannens kropp är en bullduzer >
+
+det var en dikt
+
+> Vi är vackra
+> - Qabbani
+
+det var en dikt
+
+> De ser mig som en fruktträdgård > - Qabbani
+
+
 Arabisk analays
 [grammatiska termer](https://arabic.fi/sv/categories/7)
 
