@@ -86,10 +86,11 @@ Normal ordföljd i standardarabiska
 
 > Mannens kropp är en bullduzer
 
+> mannens kropp
+> ett snabbt nattåg
+
 > De ser mig som en fruktträdgård
 > - Qabbani
-
-
 
 ## Allmän info
 Tre typer av ord
@@ -125,6 +126,9 @@ ism fi3l
 - [] Meningarna visar information om orden med avancerad analys
 
 @annaenbom أنا
+
+:sunny: شمس
+:rabbit: أرنب
 
 ## Arabisk analays
 [grammatiska termer](https://arabic.fi/sv/categories/7)
