@@ -111,3 +111,5 @@ ism fi3l
 
 Arabisk analays
 [grammatiska termer](https://arabic.fi/sv/categories/7)
+
+![En arabisk mening](https://arabic.fi/images/share/fb_sentence25sv.png)
