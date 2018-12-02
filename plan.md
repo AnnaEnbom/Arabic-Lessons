@@ -1,6 +1,9 @@
 
 #Arabisk grammatik
 
+And, of course emoji! :sparkles: :camel: :boom:
+Hey @kneath — love your sweater!
+
 ## Kasus
 
 Svenska | Arabiska | Finns
