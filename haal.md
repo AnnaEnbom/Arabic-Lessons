@@ -20,6 +20,10 @@ al-Haalu kan vara:
 * al-jumlatu al-fi3liyyatu
 * shibhu al-jumlati
 
+**jaa'a khaalidun mubtasiman**
+*Khaalid kom leende*
+mubtasiman är al-Haalu
+
 **kharaja min-haa khaa'ifan**
 *han gick ur Egypten fruktande*
 khaa'ifan är al-Haalu
@@ -73,5 +77,3 @@ fii maHalli nasbin al-Haalu (eftersom det inte är manSuub)
 jaa'a al-walada bi-l-kutubi
 bi-l-kutubi är al-Haalu som är shibhu al-jumlati
 fii maHalli nasbin al-Haalu (eftersom det inte är manSuub)
-
-det här är inte bra det vill jag inte ha
