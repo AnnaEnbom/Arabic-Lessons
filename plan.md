@@ -10,10 +10,6 @@ ackusativ | manSuub | ism, fi3l
 genitiv | majruur | ism
 jussiv | manzuum | fi3l
 
-nominativ, ackusativ, genitiv (nomen)
-
-nominativ, ackusativ manzuum (verb)
-
 ### nominativ
 marfuu3
 
@@ -132,8 +128,6 @@ ism fi3l
 - [] En speciell sida med bild för bokstäverna i ordet
 - [x] Meningarna visar information om orden
 - [] Meningarna visar information om orden med avancerad analys
-
-@AnnaEnbom أنا
 
 :sunny: شمس
 :rabbit: أرنب
