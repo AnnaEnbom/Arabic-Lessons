@@ -1,6 +1,6 @@
 Lektioner kommer att handla om:
 
-# Kausus
+# Kasus
 nominativ, ackusativ, genitiv (nomen)
 
 nominativ, ackusativ manzuum (verb)
