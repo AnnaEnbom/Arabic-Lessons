@@ -9,13 +9,21 @@ al-Haalu anses inte vara maf3uulun
 syftet med al-Haalu är bayaan (förtydligande), närmare bestämt av förtydligande av subjektet/objektet
 
 Fyra typer av al-Haalu:
-* beskriver tillståndet hos al-faa3ilu
-* beskriver tillståndet hos al-maf3uulu bi-hi
+* beskriver tillståndet hos al-faa3ilu (vanligast)
+* beskriver tillståndet hos al-maf3uulu bi-hi (förekommer också)
 * beskriver al-mubtada'u
 * beskriver al-khabaru
 
+Det vanliga är att Haal används i en verbalmening.
+Men enligt vissa grammatiska skolor kan man använda al-Haal i nominalmening. Det förekommer dock inte i nutida böcker.
+
+SaaHibu al-Haal = den som al-Haal beskriver (kan vara subjektet, vice-subjektet eller objektet)
+
 al-Haalu kan vara:
 * al-mufrada
+  * ofta ett ord som är mushtaq (byggt från verb, till exempel aktivt particip eller passivt particip)
+  * kan inte vara verbalnomen (eftersom det beskriver personen)
+  * måste vara i obestämd form (och ackusativ förstås)
 * al-jumlatu al-ismiyyatu
 * al-jumlatu al-fi3liyyatu
 * shibhu al-jumlati
@@ -36,6 +44,8 @@ yataqarabu är al-Haalu
 *han (Moses) gick ur det (Egypten) fruktande [beging watchful]*
 khaa'ifan = al-Haalu
 yataraqabu = al-Haalu (jumlatun fi3liyyatun fii maHalli nasbi al-Haalu)
+
+## Vad al-Haalu kan beskriva
 
 **jaa'a aT-Taalibu mubtasiman**
 *studenten kom leende*
@@ -60,6 +70,26 @@ en vanlig nominalmening:
 'akhuu är al-mubtada'u
 ka är mudaafun 'ilay-hi
 muta3allimun är al-khabaru
+
+en mening med al-Haalu som beskriver al-mubatada'u:
+**'akhuu-ka muta3alliman khayrun min-hu kaslaanan**
+*att din bror är lärande är bättre (för honom) än att han är lat*
+'akhuu är al-mubtada'u
+ka är mudaafun 'ilay-hi
+muta3alliman är al-Haalu (som beskriver al-mubtada'u)
+
+**hadhaa qalamii maksuuran**
+*this pen of mine is broken*
+    maksuuran är al-Haalu (som kanske beskriver al-khabaru)
+
+**hadhaa al-hilaalu Taali3an** = här är halvmånen stigande
+Taali3an är al-Haalu (som beskriver al-khabar)   
+
+**'anta mujtahidan 'akhii**
+*du är min bror i ett hårt arbetande tillstånd*
+mujtahidan är al-Haalu (som beskriver al-khabar)
+
+## Vad al-Haalu kan vara
 
 kharaja min-haa khaa'ifan = han gick ur Egypten fruktande
 khaa'ifan är al-Haalu som är ett enda ord (mufrad)
