@@ -40,6 +40,8 @@ khaa'ifan är al-Haalu
 *han gick ur Egypten watchful*
 yataqarabu är al-Haalu
 
+Man kan ha flera al-Haal i samma mening.
+
 **kharaja min-haa khaa'ifan yataraqabu**
 *han (Moses) gick ur det (Egypten) fruktande [beging watchful]*
 khaa'ifan = al-Haalu
@@ -58,6 +60,11 @@ mubtasiman är al-Haalu och beskriver al-maf3uulu bi-hi
 **faHaSa aT-Tabiibu al-mariiDa jaalisayni**
 *läkaren undersökte patienten och båda var sittande*
 jaalisayna är al-Haalu och beskriver både al-faa3ilu och al-maf3uulu bi-hi
+
+Man kan ha flera Haal kan beskriva både subjekt och subjekt.
+**Saadaftu 'akaaka waaqifan musri3an**
+*jag träffade din bror snabbt, han var stående*
+Här finns ett al-Haal för subjektet och ett för objeket, just här blir det svårt att förstå, kanske bättre att använda annat än al-Haal.
 
 al-Haal följer det som det beskriver i genus och numerus
 * 'ataa al-walada laa3iban = pojken kom lekande
@@ -107,3 +114,17 @@ fii maHalli nasbin al-Haalu (eftersom det inte är manSuub)
 jaa'a al-walada bi-l-kutubi
 bi-l-kutubi är al-Haalu som är shibhu al-jumlati
 fii maHalli nasbin al-Haalu (eftersom det inte är manSuub)
+
+### Haal som är mufrad
+
+Haal som är mufrad kan vara:
+* Haal al-mushtaq (ett aktivt particip, passivt particip)
+* Haal al-jaamid (frusen,rigid) (ett vanligt/annat nomen)
+
+Exempel på Haal al-jaamid:
+tarkuDu aT-Tiflatu ghazaalatan = flickan dansade som en gasell
+ra'aytu khaalid 'asadan = Jag såg Khalid modig som ett lejon.
+'aqifu kahlan = jag står medelålders (M)
+'aghtuu Tiflan = jag somnar som ett barn (M)
+qara'tu al-kitaaba faSlan faSlan = jag läste boken del för del
+dakhala al-mud3aw3uun (?) waaHidan waaHidan

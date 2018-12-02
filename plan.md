@@ -108,7 +108,7 @@ jamiil är bara ett substantiv, tills man använder det till att beskriva något
 al-rajulu jamiilun, al-jamiilu rajulun
 
 Typer av meningar
-* fullständig **jumla kaamila*
+* fullständig **jumla kaamila**
   * **jumla fi3iliyya**
   * **jumla ismiyya**  
 * ofullständig **jummla naaqiSa**
