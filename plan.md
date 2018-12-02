@@ -73,6 +73,14 @@ Konsonanter.
 Långa vokaler, svaga rötter.
 Korta vokaler, skrivs inte.
 
+## meningar
+
+### Verbalmeningar
+Normal ordföljd i standardarabiska
+1. fi3l
+2. faa3il
+3. maf3uulu bi-hi
+
 # Allmän info
 Tre typer av ord
 * verb
@@ -100,3 +108,6 @@ Mönster
 * yrken, färger
 
 ism fi3l
+
+Arabisk analays
+[grammatiska termer](https://arabic.fi/sv/categories/7)
