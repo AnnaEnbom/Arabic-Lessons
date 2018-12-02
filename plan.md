@@ -2,6 +2,14 @@
 #Arabisk grammatik
 
 ## Kasus
+
+Svenska | Arabiska | Finns
+------- | -------- | -----
+nominativ | marfuu3 | ism, fi3l
+ackusativ | manSuub | ism, fi3l
+genitiv | majruur | ism
+jussiv | manzuum | fi3l
+
 nominativ, ackusativ, genitiv (nomen)
 
 nominativ, ackusativ manzuum (verb)
