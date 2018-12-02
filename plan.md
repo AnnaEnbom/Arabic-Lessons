@@ -102,13 +102,17 @@ Tre typer av ord
 * ism
 * Harf
 
-Typer av meningar
-* fullständig
-* ofullständig **naaqis**
+Det är inte så stor skillnad mellan substantiv och adjektiv.
+Båda är ism.
+jamiil är bara ett substantiv, tills man använder det till att beskriva något
+al-rajulu jamiilun, al-jamiilu rajulun
 
-* **jumla fi3iliyya**
-* **jumla ismiyya**
-* **shibhu al-jumlati**
+Typer av meningar
+* fullständig **jumla kaamila*
+  * **jumla fi3iliyya**
+  * **jumla ismiyya**  
+* ofullständig **jummla naaqiSa**
+  * **shibhu al-jumlati**
 
 Tre rotbokstäver
 ibland fyra eller fem.
