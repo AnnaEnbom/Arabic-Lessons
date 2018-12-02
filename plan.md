@@ -81,15 +81,15 @@ Tre typer av ord
 
 Typer av meningar
 * fullständig
-* ofullständig (naaqis)
+* ofullständig **naaqis**
 
-* jumla fi3iliyya
-* jumla ismiyya
-* shibhu al-jumlati
+* **jumla fi3iliyya**
+* **jumla ismiyya**
+* **shibhu al-jumlati**
 
 Tre rotbokstäver
 ibland fyra eller fem.
-Vissa ord har svaga rötter (alif, waw, ya)
+Vissa ord har *svaga rötter* (alif, waw, ya)
 
 Verbformer
 
@@ -97,5 +97,6 @@ Mönster
 * Aktivit particip
 * Passivt particip
 * Verbalnomen
+* yrken, färger
 
 ism fi3l
