@@ -17,6 +17,9 @@ Normal ordföljd i standardarabiska
 2. faa3il
 3. maf3uulu bi-hi
 
+Men man kan ha vilken ordföljd man vill, eftersom ordets kasus säger om det är subjekt eller objekt.
+Handlar om hur man vill betona det.
+
 ## Poesi
 
 > Mannens kropp är en bullduzer
@@ -68,6 +71,13 @@ ism fi3l
 :rabbit: أرنب
 
 ## Arabisk analays
+
+Är du dålig på grammatik? Bra!
+Är du bra på grammatik. Glöm allt du har lärt dig.
+Arabisk grammatik är inte som engelsk eller svensk grammatik.
+Ett adjektiv är inte vad man tror att det är. En nominalmening är inte vad man tror att det är.
+Välkommen på en resa in i det oväntade!
+
 [grammatiska termer](https://arabic.fi/sv/categories/7)
 
 ![En arabisk mening](https://arabic.fi/images/share/fb_sentence25sv.png)

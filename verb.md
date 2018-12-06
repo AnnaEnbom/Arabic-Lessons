@@ -1,5 +1,18 @@
 # Verb
 
+Verben böjs efter person.
+Bara ett verb räcker för att bilda en meningar
+أشربُ
+jag dricker
+innehåller verb och objektet
+نَشرَبُ
+vi dricker
+
+På svenska behöver vi ofta flera ord för att uttrycka det ett enda verb uttrycker.
+إِستَمتَعَ
+han roade sig själv
+
+
 Tre nutidsformer
 * indikativ (vanlig) **marfuu3**
 * subjunktiv **manSuub**
@@ -26,6 +39,9 @@ kaana och dess systrar
 kaada och dess systrar
 
 verb är antingen mabniyy eller mu3arab
+
+## Suffix-pronomen
+nuun al-wikaaya
 
 ## nuun at-tawkiid
 yadrusu = han studerar
